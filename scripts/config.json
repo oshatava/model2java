@@ -1,0 +1,42 @@
+{
+  "rest":{
+    "basePath":"http://dev.spotsterapp.com/api",
+    "port":80
+  },
+  "models": {
+    "Admin":{
+      "source":"rest"
+    },
+    "Card":{ }, 
+    "CardAdd":{ }, 
+    "CardComment":{ }, 
+    "CardComplain":{ }, 
+    "CardError":{ }, 
+    "CardPermission":{ }, 
+    "CardStatus":{ }, 
+    "CardVisibility":{ }, 
+    "Color":{ }, 
+    "Company":{ }, 
+    "CompanyComplain":{ }, 
+    "CompanyError":{ }, 
+    "CompanyStatus":{ }, 
+    "CompanyType":{ }, 
+    "Container":{ }, 
+    "GeoPoint":{ }, 
+    "Id":{ }, 
+    "Image":{ }, 
+    "Industry":{ }, 
+    "Invite":{ }, 
+    "Keyword":{ }, 
+    "List":{ }, 
+    "Location":{ }, 
+    "Notification":{ }, 
+    "NotificationType":{ }, 
+    "Person":{ }, 
+    "Place":{ }, 
+    "Profession":{ }, 
+    "Profile":{ }
+  }
+
+
+}
